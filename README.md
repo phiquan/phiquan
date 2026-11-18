@@ -72,7 +72,3 @@
 - MPC wallet architecture and multi-chain support
 - Bringing web apps to React Native mobile
 - Mobile apps built on real-world maps
-
-## Let's Connect
-
-[Email](mailto:phiquan2509@gmail.com) • [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/quan-vo-9070a9447/))
