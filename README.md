@@ -10,7 +10,7 @@
 🤝 Open to collaborating on mobile and full-stack projects. Feel free to reach out!
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:phiquan2509@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/quan-vo-9070a9447/))
 
 ## What I Build
 
@@ -75,4 +75,4 @@
 
 ## Let's Connect
 
-[Email](mailto:phiquan2509@gmail.com) • [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[Email](mailto:phiquan2509@gmail.com) • [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/quan-vo-9070a9447/))
